@@ -24,3 +24,13 @@ start UI_demo.py to ask questions.
 ```python
 python UI_demo.py
 ```
+### Technology Stack
+* Python
+* Dataset: DouBan-KGQA and DBpedia
+* Apache Jena Fuseki SPARQL Server
+
+### Contributors
+* Amit Maharana
+* Bingrui Feng
+* Chengyuan Cui
+* Xiangwei Zheng
