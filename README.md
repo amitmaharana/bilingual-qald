@@ -2,7 +2,7 @@
 
 This project provides FACX, a bilingual questioning and answering assistant over Linked Data.
 
-![alt text](https://raw.githubusercontent.com/amitmaharana/amitmaharana.github.io/master/images/sample_portfolio.png)
+![alt text](https://raw.githubusercontent.com/amitmaharana/amitmaharana.github.io/master/images/sample_qald.png)
 
 ### How to use
 #### 1. Download Data
